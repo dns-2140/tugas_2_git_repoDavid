@@ -1,3 +1,6 @@
 Kelompok2
 nama: David
 programming language: JS, PHP, Python
+
+Nama : Syafaat
+Asal : Bumi
